@@ -1,9 +1,7 @@
 # Learning_NLP_and_LLMs
 
 Você sabe o que são LLM´S e Embeddings ?
-
 Já ouviu falar de bancos de dados vetoriais?
-
 Large Language Models(LLM) são algoritmos de aprendizado de máquina que processam e geram texto.
 São treinados para entender e gerar linguagem humana, um algoritmo muito conhecido é o ChatGPT da OpenAI, mas existem outros como o Google Bert, o LLaMa do Facebook e muitos outros.
 
