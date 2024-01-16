@@ -16,4 +16,3 @@ Os Emebeddings possuem milhares de dimensões, no exemplo abaixo vemos apenas du
 
 Bancos de dados vetoriais são bancos criados para armazenar esse tipo de dado, onde temos o índice dos dados, os Embeddings e seus metadados que tem a função de descrever as características e propriedades dos vetores armazenados, eles nos mostram o texto que esta armazenado.(temos o Chroma e o Pinecone como os mais conhecidos) Figura 4.
 
-Vou trazer posteriormente 3 projetos muito interessantes que são apenas um minúscula parcela de coisas que são possíveis com esses modelos e com essa estrutura de dado e entrar mais afundo em outras ferramentas e tecnologias usadas para os mesmos.
