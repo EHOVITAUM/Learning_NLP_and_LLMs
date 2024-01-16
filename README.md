@@ -5,6 +5,8 @@ Já ouviu falar de bancos de dados vetoriais?
 Large Language Models(LLM) são algoritmos de aprendizado de máquina que processam e geram texto.
 São treinados para entender e gerar linguagem humana, um algoritmo muito conhecido é o ChatGPT da OpenAI, mas existem outros como o Google Bert, o LLaMa do Facebook e muitos outros.
 
+
+
 Embeddings são representações matemáticas de coisas do mundo real.
 É um vetor(lista) de valores que o algoritmo usa para representar dados 
 não estruturados como: fotos , videos, audios e textos. Figura 2.
